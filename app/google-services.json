@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "project_number": "1080077931438",
+    "firebase_url": "https://fireapp-494a3.firebaseio.com",
+    "project_id": "fireapp-494a3",
+    "storage_bucket": "fireapp-494a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080077931438:android:b5eab1d425d5442d",
+        "android_client_info": {
+          "package_name": "com.hackingbuzz.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080077931438-3dcnsaju18qdii8k9sl8hn4fq3215eh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackingbuzz.fireapp",
+            "certificate_hash": "416e6436e5c1e194f849e69b87bee6ff312540ce"
+          }
+        },
+        {
+          "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTToL05wei7qmkF53reOZl-_uahQeDx68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080077931438:android:882aab226b92354e",
+        "android_client_info": {
+          "package_name": "com.hackingbuzz.firebaseseries3login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080077931438-l3qnpqtvuqkr3ptbbirqkjoeb1pi4nmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackingbuzz.firebaseseries3login",
+            "certificate_hash": "416e6436e5c1e194f849e69b87bee6ff312540ce"
+          }
+        },
+        {
+          "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTToL05wei7qmkF53reOZl-_uahQeDx68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080077931438:android:710f53294fdf5892",
+        "android_client_info": {
+          "package_name": "com.hackingbuzz.firebaseseries5database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080077931438-fl5ctqqsur0va7vr5lp1kuhgc6edv3do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackingbuzz.firebaseseries5database",
+            "certificate_hash": "416e6436e5c1e194f849e69b87bee6ff312540ce"
+          }
+        },
+        {
+          "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTToL05wei7qmkF53reOZl-_uahQeDx68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080077931438:android:90ac0394cfe596fc",
+        "android_client_info": {
+          "package_name": "com.hackingbuzz.firebaseseries4register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080077931438-2cd0cv94up5lpl5n10717ktt96842orp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackingbuzz.firebaseseries4register",
+            "certificate_hash": "416e6436e5c1e194f849e69b87bee6ff312540ce"
+          }
+        },
+        {
+          "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTToL05wei7qmkF53reOZl-_uahQeDx68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080077931438:android:0d20c56849eda557",
+        "android_client_info": {
+          "package_name": "com.hackingbuzz.firebaseseries2imagedownload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080077931438-qhloegn4jurefe4fgs4kklu3tepuprjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackingbuzz.firebaseseries2imagedownload",
+            "certificate_hash": "416e6436e5c1e194f849e69b87bee6ff312540ce"
+          }
+        },
+        {
+          "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTToL05wei7qmkF53reOZl-_uahQeDx68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080077931438:android:9b5b7ce4ad171b5b",
+        "android_client_info": {
+          "package_name": "com.hackingbuzz.firebaseseries6downloadimage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080077931438-k131esfpegp31046147ff0hojhtln6ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackingbuzz.firebaseseries6downloadimage2",
+            "certificate_hash": "416e6436e5c1e194f849e69b87bee6ff312540ce"
+          }
+        },
+        {
+          "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTToL05wei7qmkF53reOZl-_uahQeDx68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080077931438:android:219579d8ed51a8f7",
+        "android_client_info": {
+          "package_name": "com.hackingbuzz.getpdffromstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080077931438-h9ihru9f5vgoi44vgqgqo13vad4vkk7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackingbuzz.getpdffromstorage",
+            "certificate_hash": "416e6436e5c1e194f849e69b87bee6ff312540ce"
+          }
+        },
+        {
+          "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTToL05wei7qmkF53reOZl-_uahQeDx68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080077931438-l4v02nvt6opvd2ef8t9hd3pd6nn0benq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
